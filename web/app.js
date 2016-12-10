@@ -1,10 +1,10 @@
-let express = require('express');
+import express from 'express';
 let app = express();
 
-// import controllers from './controllers';
-// import middlewares from './middlewares';
-const controllers = require('./controllers');
-const middlewares = require('./middlewares');
+import controllers from './controllers';
+import middlewares from './middlewares';
+// const controllers = require('./controllers');
+// const middlewares = require('./middlewares');
 // const errorHandlers = require('./errorHandlers');
 
 // middlewares
