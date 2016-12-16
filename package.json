@@ -33,10 +33,12 @@
     "debug": "^2.3.3",
     "express": "^4.14.0",
     "lodash": "^4.17.2",
+    "moment-timezone": "^0.5.10",
     "morgan": "^1.7.0",
     "multer": "^1.2.0",
     "nodemon": "^1.11.0",
     "nunjucks": "^3.0.0",
-    "pretty-error": "^2.0.2"
+    "pretty-error": "^2.0.2",
+    "sitemap": "^1.8.2"
   }
 }
